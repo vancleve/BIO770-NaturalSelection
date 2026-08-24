@@ -10,10 +10,10 @@ header-includes: |
 
 [canvas site]: https://uk.instructure.com/courses/2200247
 
-|                                                         |                                                      |                                                          |
-|:--------------------------------------------------------|:----------------------------------------------------:|---------------------------------------------------------:|
-|                                                         | ![](landscape.png "A fitness landscape"){height=200} |                                                          |
-| ![](fisher_sm.jpg "A photo of R.A. Fisher"){height=200} |            ![](wright_sm.jpg){height=200}            | ![](kimura_sm.jpg "A photo of Motoo Kimura"){height=200} |
+|                                                         |                                                           |                                                          |
+|:--------------------------------------------------------|:---------------------------------------------------------:|---------------------------------------------------------:|
+|                                                         |   ![](landscape.png "A fitness landscape"){height=200}    |                                                          |
+| ![](fisher_sm.jpg "A photo of R.A. Fisher"){height=200} | ![](wright_sm.jpg "A photo of Sewall Wright"){height=200} | ![](kimura_sm.jpg "A photo of Motoo Kimura"){height=200} |
    
 
 # Course information
