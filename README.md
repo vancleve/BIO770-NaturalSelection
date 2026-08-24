@@ -1,7 +1,7 @@
 |  |  |  |
 |:---|:--:|---:|
-|  | <img src="landscape.png" height="200" /> |  |
-| <img src="fisher_sm.jpg" height="200" /> | <img src="wright_sm.jpg" height="200" /> | <img src="kimura_sm.jpg" height="200" /> |
+|  | <img src="landscape.png" title="A fitness landscape" height="200" /> |  |
+| <img src="fisher_sm.jpg" title="A photo of R.A. Fisher" height="200" /> | <img src="wright_sm.jpg" height="200" /> | <img src="kimura_sm.jpg" title="A photo of Motoo Kimura" height="200" /> |
 
 # Course information
 
