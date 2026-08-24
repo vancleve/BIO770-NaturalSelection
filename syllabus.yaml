@@ -1,0 +1,21 @@
+pdf-engine: lualatex
+columns: 70
+variables:
+  mainfont: Minion Pro
+  sansfont: Myriad Pro
+  monofont: Fira Code
+  mathfont: TeX Gyre Pagella Math
+  sansfontoptions:
+    - Scale=MatchLowercase
+  monofontoptions:
+    - Scale=MatchLowercase
+  mathfontoptions:
+    - Scale=MatchLowercase
+  fontsize: "10pt"
+  geometry:
+    - margin=1in
+  colorlinks: true
+  linkcolor: blue
+  header-includes:
+    - \usepackage{caption}
+    - \captionsetup[figure]{labelformat=empty}
