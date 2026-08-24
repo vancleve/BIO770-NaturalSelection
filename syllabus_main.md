@@ -1,5 +1,5 @@
 ---
-title: BIO 770 – Dr. Pangloss reborn? The ebb and flow of natural selection in evolution – Spring 2023
+title: BIO 770 – Dr. Pangloss reborn? The ebb and flow of natural selection in evolution – Fall 2026
 header-includes: |
   <style>
   body {
@@ -8,9 +8,13 @@ header-includes: |
   </style>
 ---
 
-[canvas site]: https://uk.instructure.com/courses/2062737
+[canvas site]: https://uk.instructure.com/courses/2200247
 
-![](fisher_sm.jpg) ![](wright_sm.jpg) ![](kimura_sm.jpg) ![](landscape.png){height=200}
+|                                |                                |                                |
+|:-------------------------------|:------------------------------:|-------------------------------:|
+|                                | ![](landscape.png){height=200} |                                |
+| ![](fisher_sm.jpg){height=200} | ![](wright_sm.jpg){height=200} | ![](kimura_sm.jpg){height=200} |
+   
 
 # Course information
 
@@ -22,10 +26,10 @@ header-includes: |
 | **Office**         | THM 216                                                        |
 | **Office hours**   | By appointment                                                 |
 |                    |                                                                |
-| **Class Time**     | T 11 AM – 12 PM                                                |
-| **Class Location** | THM 108                                                        |
+| **Class Time**     | T 3:30 PM – 4:20 PM                                            |
+| **Class Location** | JSB 243                                                        |
 | **Website**        | <https://vancleve.github.io/BIO770-NaturalSelection> (Website) |
-|                    | <https://uk.instructure.com/courses/2062737> (Canvas)          |
+|                    | <https://uk.instructure.com/courses/2200247> (Canvas)          |
 |                    |                                                                |
 | **Credits**        | 1                                                              |
 
@@ -69,7 +73,7 @@ Leading the discussion means:
 
 ## Weekly note card questions
 
-Before each class meeting, each student should prepare one or two questions based on the readings.
+Before each class meeting, each student should prepare **two questions** based on the readings.
 
 - Write each question out on a **note card** and include **your name**.
 - **Hand in** your note cards to the discussion leaders for that week at the beginning of class.

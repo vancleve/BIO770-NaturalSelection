@@ -1,22 +1,24 @@
-![](fisher_sm.jpg) ![](wright_sm.jpg) ![](kimura_sm.jpg)
-<img src="landscape.png" height="200" />
+|  |  |  |
+|:---|:--:|---:|
+|  | <img src="landscape.png" height="200" /> |  |
+| <img src="fisher_sm.jpg" height="200" /> | <img src="wright_sm.jpg" height="200" /> | <img src="kimura_sm.jpg" height="200" /> |
 
 # Course information
 
-|                    |                                                                |
-|--------------------|----------------------------------------------------------------|
-| **Instructor**     | Dr. Jeremy Van Cleve                                           |
-| **E-mail**         | <jvancleve@uky.edu>                                            |
-| **Phone**          | \(859\) 218-3020                                               |
-| **Office**         | THM 216                                                        |
-| **Office hours**   | By appointment                                                 |
-|                    |                                                                |
-| **Class Time**     | T 11 AM – 12 PM                                                |
-| **Class Location** | THM 108                                                        |
-| **Website**        | <https://vancleve.github.io/BIO770-NaturalSelection> (Website) |
-|                    | <https://uk.instructure.com/courses/2062737> (Canvas)          |
-|                    |                                                                |
-| **Credits**        | 1                                                              |
+|  |  |
+|----|----|
+| **Instructor** | Dr. Jeremy Van Cleve |
+| **E-mail** | <jvancleve@uky.edu> |
+| **Phone** | \(859\) 218-3020 |
+| **Office** | THM 216 |
+| **Office hours** | By appointment |
+|  |  |
+| **Class Time** | T 3:30 PM – 4:20 PM |
+| **Class Location** | JSB 243 |
+| **Website** | <https://vancleve.github.io/BIO770-NaturalSelection> (Website) |
+|  | <https://uk.instructure.com/courses/2200247> (Canvas) |
+|  |  |
+| **Credits** | 1 |
 
 # Course description
 
@@ -68,7 +70,7 @@ Each student should sign up to be a co-leader for **TWO** topics. To
 sign up:
 
 1.  Go to the the [Canvas
-    site](https://uk.instructure.com/courses/2062737).
+    site](https://uk.instructure.com/courses/2200247).
 2.  Click on “Calendar” on the left hand navigation bar.
 3.  Click “Find Appointment” on the right hand side.
 4.  Select “BIO770: Dr. Panglos…” and hit “Submit”.
@@ -89,8 +91,8 @@ Leading the discussion means:
 
 ## Weekly note card questions
 
-Before each class meeting, each student should prepare one or two
-questions based on the readings.
+Before each class meeting, each student should prepare **two questions**
+based on the readings.
 
 - Write each question out on a **note card** and include **your name**.
 - **Hand in** your note cards to the discussion leaders for that week at
@@ -104,132 +106,149 @@ questions based on the readings.
 
 # Class and reading schedule
 
-| Week | Date   | Topic                                                  | Discussion leaders        | Readings (PDFs located on Canvas)                                                                                      |
-|------|--------|--------------------------------------------------------|---------------------------|------------------------------------------------------------------------------------------------------------------------|
-| 1    | Jan 10 | Discussion: what is natural selection anyway 🧐?       | Van Cleve                 |                                                                                                                        |
-|      |        |                                                        |                           |                                                                                                                        |
-| 2    | Jan 17 | Fisher’s fundamental theorem                           | Liedtke, Parra Sotalin    | [Frank and Slatkin 1992](https://uk.instructure.com/courses/2062737/modules/items/26377503)                            |
-|      |        |                                                        |                           | [Okasha 2008](https://uk.instructure.com/courses/2062737/modules/items/26377504)                                       |
-|      |        |                                                        |                           |                                                                                                                        |
-| 3    | Jan 24 | Wright’s shifting balance                              | Liedtke                   | [Wright 1932](https://uk.instructure.com/courses/2062737/modules/items/26392491)                                       |
-|      |        |                                                        |                           | [Wright 1988](https://uk.instructure.com/courses/2062737/modules/items/26392490)                                       |
-|      |        |                                                        |                           | [Wade and Goodnight 1991](https://uk.instructure.com/courses/2062737/modules/items/26392499)                           |
-|      |        |                                                        |                           |                                                                                                                        |
-| 4    | Jan 31 | Critique of the shifting balance                       | Liedtke, Weisenbeck       | [Coyne et al. 1997](https://uk.instructure.com/courses/2062737/modules/items/26392497)                                 |
-|      |        |                                                        |                           | [Skipper 2002](https://uk.instructure.com/courses/2062737/modules/items/26417182)                                      |
-|      |        |                                                        |                           |                                                                                                                        |
-| 5    | Feb 7  | A new slice of the shifting balance                    | Cook, Welc                | [Kryazhimskiy et al. 2012](https://uk.instructure.com/courses/2062737/modules/items/26426323)                          |
-|      |        |                                                        |                           | [Nahum et al 2015](https://uk.instructure.com/courses/2062737/modules/items/26426325)                                  |
-|      |        |                                                        |                           | [Van Cleve and Weissman 2015](https://uk.instructure.com/courses/2062737/modules/items/26426326)                       |
-|      |        |                                                        |                           |                                                                                                                        |
-| 6    | Feb 14 | Lewontin and adaptationism                             | Bottger, Welc             | [Gould and Lewontin 1979](https://uk.instructure.com/courses/2062737/modules/items/26433328)                           |
-|      |        |                                                        |                           | [Lewontin 2015](https://thisviewoflife.com/the-spandrels-of-san-marco-revisited-an-interview-with-richard-c-lewontin/) |
-|      |        |                                                        |                           |                                                                                                                        |
-| 7    | Feb 21 | When fitness is not “maximized”                        | Barker, Cook              | [Matsuda and Abrams 1994](https://uk.instructure.com/courses/2062737/modules/items/26441462)                           |
-|      |        |                                                        |                           | [Frean and Abraham 2001](https://uk.instructure.com/courses/2062737/modules/items/26392493)                            |
-|      |        |                                                        |                           |                                                                                                                        |
-| 8    | Feb 28 | The Price equation, kin selection, and group selection | Rahman, Salano            | [Hamilton 1975](https://uk.instructure.com/courses/2062737/modules/items/26451640)                                     |
-|      |        |                                                        |                           |                                                                                                                        |
-| 9    | Mar 7  | “Design” and fitness optimization                      | Parra Sotalin, Weisenbeck | [Gardner 2009](https://uk.instructure.com/courses/2062737/modules/items/26463103)                                      |
-|      |        |                                                        |                           | [Felsenstein 2007](https://uk.instructure.com/courses/2062737/modules/items/26463100)                                  |
-|      |        |                                                        |                           | [Orr 2005](https://uk.instructure.com/courses/2062737/modules/items/26463102)                                          |
-|      |        |                                                        |                           |                                                                                                                        |
-|      | Mar 14 | **Spring break**                                       |                           |                                                                                                                        |
-|      |        |                                                        |                           |                                                                                                                        |
-| 10   | Mar 21 | Phylogeny and ecology                                  | Salano, Welc              | [Kamila and Cooper 2013](https://uk.instructure.com/courses/2062737/modules/items/26470070)                            |
-|      |        |                                                        |                           |                                                                                                                        |
-| 11   | Mar 28 | Molecular evolution: the Neutral Theory                | Bottger, Rahman           | [Kimura and Ohta 1971](https://uk.instructure.com/courses/2062737/modules/items/26480064)                              |
-|      |        |                                                        |                           | [Ohta 1974](https://uk.instructure.com/courses/2062737/modules/items/26480065)                                         |
-|      |        |                                                        |                           |                                                                                                                        |
-| 12   | Apr 4  | Molecular evolution: Kimura vs Gillespie               | Barker, Rahman            | [Gillespie 1987](https://uk.instructure.com/courses/2062737/modules/items/26491845)                                    |
-|      |        |                                                        |                           | [Kimura 1991](https://uk.instructure.com/courses/2062737/modules/items/26491846)                                       |
-|      |        |                                                        |                           |                                                                                                                        |
-| 13   | Apr 11 | Molecular evolution: linkage and detecting selection   | Bottger, Weisenbeck       | [Begun & Aquadro 1992](https://uk.instructure.com/courses/2062737/modules/items/26499816)                              |
-|      |        |                                                        |                           | [Hudson 1994](https://uk.instructure.com/courses/2062737/modules/items/26499815)                                       |
-|      |        |                                                        |                           | [Smith & Eyre-Walker 2002](https://uk.instructure.com/courses/2062737/modules/items/26499823)                          |
-|      |        |                                                        |                           |                                                                                                                        |
-| 14   | Apr 18 | Recent assessments of the neutral theory               | Barker, Cook              | [Kern and Hahn 2018](https://uk.instructure.com/courses/2062737/modules/items/26392487)                                |
-|      |        |                                                        |                           | [Jensen et al 2019](https://uk.instructure.com/courses/2062737/modules/items/26392488)                                 |
-|      |        |                                                        |                           |                                                                                                                        |
-| 15   | Apr 25 | Natural selection and society                          | Parra Sotalin, Salano     | [Bird 2021](https://uk.instructure.com/courses/2062737/modules/items/26510926)                                         |
-|      |        |                                                        |                           | [Branch et al. 2022](https://uk.instructure.com/courses/2062737/modules/items/26392486)                                |
-
-<!-- ## Topics: -->
-<!-- * fisher vs wright: mass selection vs shifting balance -->
-<!--     - Ewens 2011 -->
-<!--     - Wright 1932 / 1988 / Lande 1985 -->
-<!--     - Coyne, Barton, Turelli 1997 -->
-<!--     - Kryazhimskiy / Nahum / Van Cleve -->
-<!-- * lewontin vs dawkins: spandrels or adaptations -->
-<!--     - Lewontin & Gould / Lewontin 1979 / Lewontin interview -->
-<!--     - Hastings 1981 / Frean & Abraham 2001 / Rankin 2005 -->
-<!--     - Frank 1995 on the price equation -->
-<!--     - Grafen 2008 -->
-<!--     - Lehmann & Rousset (2014) -->
-<!-- * kimura vs gillespie: drift or draft -->
-<!-- ## Key Concepts: -->
-<!-- * evolutionary change as a dynamical system -->
-<!-- * selection as hill climbing -->
-<!-- * adaptations as equilibrium points -->
-<!-- ## Crazy topics: -->
-<!-- * Steve Frank's work on evolution and information theory -->
-<!-- * Jeremy England's theory of evolution via entropy production -->
-<!-- * Selection and constraint: the role of landscape and the no free lunch theorems -->
+| Week | Date | Topic | Discussion leaders | Readings (PDFs located on Canvas) |
+|----|----|----|----|----|
+| 1 | Aug 25 | Discussion: what is natural selection anyway 🧐? | Van Cleve |  |
+|  |  |  |  |  |
+| 2 | Sep 01 | Fisher’s fundamental theorem |  | [Edwards 1994](https://uk.instructure.com/courses/2200247/modules/items/29543460) |
+|  |  |  |  | [Okasha 2008](https://uk.instructure.com/courses/2200247/modules/items/26377504) |
+|  |  |  |  |  |
+| 3 | Sep 08 | Wright’s shifting balance |  | [Wright 1932]() |
+|  |  |  |  | [Wright 1988]() |
+|  |  |  |  | [Wade and Goodnight 1991]() |
+|  |  |  |  |  |
+| 4 | Sep 15 | Critique of the shifting balance |  | [Coyne et al. 1997]() |
+|  |  |  |  | [Skipper 2002]() |
+|  |  |  |  |  |
+| 5 | Sep 22 | A new slice of the shifting balance |  | [Kryazhimskiy et al. 2012]() |
+|  |  |  |  | [Nahum et al 2015]() |
+|  |  |  |  | [Van Cleve and Weissman 2015]() |
+|  |  |  |  |  |
+| 6 | Sep 29 | Lewontin and adaptationism |  | [Gould and Lewontin 1979]() |
+|  |  |  |  | [Lewontin 2015]() |
+|  |  |  |  |  |
+| 7 | Oct 06 | When fitness is not “maximized” |  | [Frean and Abraham 2001]() |
+|  |  |  |  | [Brady et al. 2019]() |
+|  |  |  |  |  |
+| 8 | Oct 13 | The Price equation, kin selection, and group selection |  | [Hamilton 1975]() |
+|  |  |  |  |  |
+| 9 | Oct 20 | “Design” and fitness optimization |  | [Gardner 2009]() |
+|  |  |  |  | [Felsenstein 2007]() |
+|  |  |  |  | [Orr 2005]() |
+|  |  |  |  |  |
+|  | Oct 27 | **Fall break** |  |  |
+|  |  |  |  |  |
+| 10 | Nov 03 | Phylogeny and ecology |  | [Kamila and Cooper 2013]() |
+|  |  |  |  |  |
+| 11 | Nov 10 | Molecular evolution: the Neutral Theory |  | [Kimura and Ohta 1971]() |
+|  |  |  |  | [Ohta 1974]() |
+|  |  |  |  |  |
+| 12 | Nov 17 | Molecular evolution: Kimura vs Gillespie |  | [Gillespie 1987]() |
+|  |  |  |  | [Kimura 1991]() |
+|  |  |  |  |  |
+| 13 | Nov 24 | Molecular evolution: linkage and detecting selection |  | [Begun & Aquadro 1992]() |
+|  |  |  |  | [Hudson 1994]() |
+|  |  |  |  | [Smith & Eyre-Walker 2002]() |
+|  |  |  |  |  |
+| 14 | Dec 01 | Recent assessments of the neutral theory |  | [Kern and Hahn 2018]() |
+|  |  |  |  | [Jensen et al 2019]() |
+|  |  |  |  |  |
+| 15 | Dec 08 | Natural selection and society |  | [Bird 2021]() |
+|  |  |  |  | [Branch et al. 2022]() |
 
 # Course policies
 
-Please see <https://www.uky.edu/universitysenate/acadpolicy> for a full
-description of UK academic policies.
+## Academic policies
 
-## Diversity and Inclusion
+- For full description of UK academic policies regarding excused
+  absences and their verification, religious observances, prep days and
+  reading days, accommodations due to disability, and non-discrimination
+  and Title IX compliance, please see this link
+  <https://provost.uky.edu/instructor-resources/academic-policy-statements>.
+
+- Mental Health Resources: <https://studentsuccess.uky.edu/get-help>
+
+- Academic Support: <https://studentsuccess.uky.edu/academicresources>
+
+- Disability Resource Center:
+  <https://studentsuccess.uky.edu/disability-resource-center>
+
+- Academic Ombud: <https://ombud.uky.edu/information-students>
+
+- Classroom Emergency Preparedness and Response information:
+  <https://provost.uky.edu/instructor-resources#:~:text=Classroom%20Emergency%20Preparedness%20and,Preparedness%20and%20Response%20Information>
+
+## Belonging and engagement
 
 Members of the course are entitled to learn from each other in an open
 and welcoming environment regardless of their racial, ethnic, gender,
 and sexual identities. Conduct that is not respectful of these
-identities or of the national origin, religion, and political beliefs
+identities or of the national origin, religion, and political beliefs of
 students and instructors will not be tolerated. Please report any
 concerning conduct to the instructor.
 
-## Face Covering/Distancing Policy
+For information about reporting bias, harassment, or other issues or
+seeking accommodations, please see <https://oeo.uky.edu/contact-us>.
 
-- Transmission of COVID-19 is still prevalent in Kentucky. The
-  instructor and students are entitled to practices that reduce
-  transmission including, and not limited to, wearing a high-quality
-  mask and social distancing.
+## Face covering policy
 
-- In accordance with University guidelines, these transmission reducing
-  practices are optional but the instructor encourages them. If COVID-19
-  is a specific risk to a student or a student has any concerns about
-  classroom COVID-19 policies, please contact the instructor as soon as
-  possible.
+- Transmission of COVID-19, influenza, and other airborne respiratory
+  illnesses is an important issue, especially during fall and winter
+  months. The instructor and students are entitled to practices that
+  reduce transmission including, and not limited to, wearing a
+  high-quality mask and social distancing.
 
-- More information about COVID-19 and UK can be found here:
-  <https://coronavirus.uky.edu/>
+- These transmission reducing practices are optional. If COVID-19,
+  influenza, or another airborne illness is a specific risk to a student
+  or a student has any concerns about classroom policies, please contact
+  the instructor as soon as possible.
+
+## Generative AI Policy
+
+Education is exercise for your mind. Just as there are varying levels of
+assistance that an e-bike can give you on a bike ride, generative AI
+(genAI) can be used in different ways and to varying degrees. This
+course provides some potentially challenging concepts, and genAI can
+either gently assist a heavy lift if used correctly or provide a generic
+answer that doesn’t actually challenge your conceptual understanding.
+
+Since this course relies heavily on reading primary literature and
+conceptual papers, it may be tempting to ask genAI for summaries of the
+papers or to draft discussion topics or questions. Please resist this
+urge. Consider genAI a knowledgeable “thought partner” who can help you
+more quickly get the gist of a concept and then locate appropriate
+additional reading to better understand it. Once you’ve done that work,
+the discussion topics and questions will come naturally from your own
+exploration of the subject matter.
+
+In short, the course policy is a modified Level 2 from here:
+<https://celt.uky.edu/student-ai-use-scale>. You can use genAI to help
+find additional primary or secondary resources, but it should not be the
+final source of your understanding of concepts in the papers nor should
+it generate the topics and questions for class discussions.
 
 ## Excused Absences
 
 Students need to notify the instructor of absences prior to class when
-possible. Senate Rule Senate Rules 5.2.5.2.1 defines the following as
-acceptable reasons for excused absences: (a) significant illness, (b)
-death of a family member, (c) trips for members of student organizations
-sponsored by an educational unit, trips for University classes, and
-trips for participation in intercollegiate athletic events, (d) major
-religious holidays, (e) interviews for graduate/professional school or
-full-time employment post-graduation, and (f) other circumstances found
-to fit “reasonable cause for nonattendance” by the professor.
+possible. University rules define the following as acceptable reasons
+for excused absences: (a) significant illness, (b) death of a family
+member, (c) trips for members of student organizations sponsored by an
+educational unit, trips for University classes, and trips for
+participation in intercollegiate athletic events, (d) major religious
+holidays, (e) interviews for graduate/professional school or full-time
+employment post-graduation, and (f) other circumstances found to fit
+“reasonable cause for nonattendance” by the professor.
 
 Students anticipating an absence for a major religious holiday are
 responsible for notifying the instructor in writing of anticipated
 absences due to their observance of such holidays no later than the last
-day in the semester to add a class. Students are expected to withdraw
-from the class if more than 20% of the classes scheduled for the
-semester are missed (excused or unexcused) per university policy.
+day in the semester to add a class.
 
 ## Verification of Absences
 
 Students may be asked to verify their absences in order for them to be
-considered excused. Senate Rule 5.2.5.2.1 states that faculty have the
-right to request appropriate verification when students claim an excused
+considered excused. University rules state that faculty have the right
+to request appropriate verification when students claim an excused
 absence due to: significant illness; death in the household, trips for
 classes, trips sponsored by an educational unit and trips for
 participation related to intercollegiate athletic events; and interviews
@@ -239,38 +258,13 @@ graduate and professional school.
 ## Academic Integrity
 
 Per university policy, students shall not plagiarize, cheat, or falsify
-or misuse academic records. Students are expected to adhere to
-University policy on cheating and plagiarism in all courses. The minimum
-penalty for a first offense is a zero on the assignment on which the
-offense occurred. If the offense is considered severe or the student has
-other academic offenses on their record, more serious penalties, up to
+or misuse academic work. Students are expected to adhere to University
+policy on cheating and plagiarism in all courses. The minimum penalty
+for a first offense is a zero on the assignment on which the offense
+occurred. If the offense is considered severe or the student has other
+academic offenses on their record, more serious penalties, up to
 suspension from the university may be imposed.
 
-Plagiarism and cheating are serious breaches of academic conduct. Each
-student is advised to become familiar with the various forms of academic
-dishonesty as explained in the Code of Student Rights and
-Responsibilities. Complete information can be found at the following
-website: <https://www.uky.edu/ombud/>. A plea of ignorance is not
-acceptable as a defense against the charge of academic dishonesty. It is
-important that you review this information as all ideas borrowed from
-others need to be properly credited.
-
-Section 6.3 “Academic Offenses and Procedures” of the [Senate
-Rules](http://www.uky.edu/universitysenate/rules-regulations) lays out
-UK’s policy on academic integrity and says the following about plagarism
-and
-
-## Accommodations due to disability
-
-In accordance with federal law, if you have a documented disability that
-requires academic accommodations, please inform me as soon as possible.
-In order to receive accommodations in a course, you must provide me with
-a Letter of Accommodation from the Disability Resource Center (DRC).
-
-The DRC coordinates campus disability services available to students
-with disabilities. It is located on the corner of Rose Street and
-Huguelet Drive in the Multidisciplinary Science Building, Suite 407. You
-can reach them via phone at (859) 257-2754, via email (<drc@uky.edu>) or
-visit their website (<https://www.uky.edu/DisabilityResourceCenter/>).
-DRC accommodations are not retroactive and should therefore be
-established with the DRC as early in the semester as is feasible.
+Complete information on university policy can be found at the following
+website:
+<https://provost.uky.edu/proposals/guidance-course-proposals/academic-offenses>.

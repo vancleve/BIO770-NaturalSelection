@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta charset="utf-8" />
-  <meta name="generator" content="pandoc" />
+  <meta name="generator" content="pandoc 3.10.2" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>BIO 770 – Dr. Pangloss reborn? The ebb and flow of natural selection in evolution – Spring 2023</title>
+  <title>BIO 770 – Dr. Pangloss reborn? The ebb and flow of natural selection in evolution – Fall 2026</title>
   <style>
+    /* Default styles provided by pandoc.
+    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+    */
     html {
-      line-height: 1.5;
-      font-family: Georgia, serif;
-      font-size: 20px;
       color: #1a1a1a;
       background-color: #fdfdfd;
     }
@@ -28,17 +28,19 @@
     @media (max-width: 600px) {
       body {
         font-size: 0.9em;
-        padding: 1em;
+        padding: 12px;
       }
       h1 {
         font-size: 1.8em;
       }
     }
     @media print {
+      html {
+        background-color: white;
+      }
       body {
         background-color: transparent;
         color: black;
-        font-size: 12pt;
       }
       p, h2, h3 {
         orphans: 3;
@@ -58,6 +60,10 @@
       color: #1a1a1a;
     }
     img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
       max-width: 100%;
     }
     h1, h2, h3, h4, h5, h6 {
@@ -84,9 +90,11 @@
       color: #606060;
     }
     code {
-      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      white-space: pre-wrap;
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
       font-size: 85%;
       margin: 0;
+      hyphens: manual;
     }
     pre {
       margin: 1em 0;
@@ -102,8 +110,8 @@
      overflow: visible;
     }
     hr {
-      background-color: #1a1a1a;
       border: none;
+      border-top: 1px solid #1a1a1a;
       height: 1px;
       margin: 1em 0;
     }
@@ -146,13 +154,19 @@
     #TOC a:not(:hover) {
       text-decoration: none;
     }
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
@@ -164,17 +178,35 @@
     max-width: 50em;
   }
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
 <h1 class="title">BIO 770 – Dr. Pangloss reborn? The ebb and flow of
-natural selection in evolution – Spring 2023</h1>
+natural selection in evolution – Fall 2026</h1>
 </header>
-<p><img src="fisher_sm.jpg" /> <img src="wright_sm.jpg" /> <img
-src="kimura_sm.jpg" /> <img src="landscape.png" height="200" /></p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<tbody>
+<tr>
+<td style="text-align: left;"></td>
+<td style="text-align: center;"><img src="landscape.png"
+height="200" /></td>
+<td style="text-align: right;"></td>
+</tr>
+<tr>
+<td style="text-align: left;"><img src="fisher_sm.jpg"
+height="200" /></td>
+<td style="text-align: center;"><img src="wright_sm.jpg"
+height="200" /></td>
+<td style="text-align: right;"><img src="kimura_sm.jpg"
+height="200" /></td>
+</tr>
+</tbody>
+</table>
 <h1 id="course-information">Course information</h1>
 <table>
 <colgroup>
@@ -182,55 +214,55 @@ src="kimura_sm.jpg" /> <img src="landscape.png" height="200" /></p>
 <col style="width: 76%" />
 </colgroup>
 <tbody>
-<tr class="odd">
+<tr>
 <td><strong>Instructor</strong></td>
 <td>Dr. Jeremy Van Cleve</td>
 </tr>
-<tr class="even">
+<tr>
 <td><strong>E-mail</strong></td>
 <td><a href="mailto:jvancleve@uky.edu"
 class="email">jvancleve@uky.edu</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><strong>Phone</strong></td>
 <td>(859) 218-3020</td>
 </tr>
-<tr class="even">
+<tr>
 <td><strong>Office</strong></td>
 <td>THM 216</td>
 </tr>
-<tr class="odd">
+<tr>
 <td><strong>Office hours</strong></td>
 <td>By appointment</td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr>
 <td><strong>Class Time</strong></td>
-<td>T 11 AM – 12 PM</td>
+<td>T 3:30 PM – 4:20 PM</td>
 </tr>
-<tr class="even">
+<tr>
 <td><strong>Class Location</strong></td>
-<td>THM 108</td>
+<td>JSB 243</td>
 </tr>
-<tr class="odd">
+<tr>
 <td><strong>Website</strong></td>
 <td><a href="https://vancleve.github.io/BIO770-NaturalSelection"
 class="uri">https://vancleve.github.io/BIO770-NaturalSelection</a>
 (Website)</td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
-<td><a href="https://uk.instructure.com/courses/2062737"
-class="uri">https://uk.instructure.com/courses/2062737</a> (Canvas)</td>
+<td><a href="https://uk.instructure.com/courses/2200247"
+class="uri">https://uk.instructure.com/courses/2200247</a> (Canvas)</td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td><strong>Credits</strong></td>
 <td>1</td>
 </tr>
@@ -278,7 +310,7 @@ augmentation by other sources as needed.</p>
 <strong>TWO</strong> topics. To sign up:</p>
 <ol type="1">
 <li>Go to the the <a
-href="https://uk.instructure.com/courses/2062737">Canvas site</a>.</li>
+href="https://uk.instructure.com/courses/2200247">Canvas site</a>.</li>
 <li>Click on “Calendar” on the left hand navigation bar.</li>
 <li>Click “Find Appointment” on the right hand side.</li>
 <li>Select “BIO770: Dr. Panglos…” and hit “Submit”.</li>
@@ -299,8 +331,8 @@ students in class.</li>
 discussion.</li>
 </ol>
 <h2 id="weekly-note-card-questions">Weekly note card questions</h2>
-<p>Before each class meeting, each student should prepare one or two
-questions based on the readings.</p>
+<p>Before each class meeting, each student should prepare <strong>two
+questions</strong> based on the readings.</p>
 <ul>
 <li>Write each question out on a <strong>note card</strong> and include
 <strong>your name</strong>.</li>
@@ -316,14 +348,14 @@ for that week at the beginning of class.</li>
 <h1 id="class-and-reading-schedule">Class and reading schedule</h1>
 <table>
 <colgroup>
-<col style="width: 2%" />
 <col style="width: 3%" />
-<col style="width: 25%" />
-<col style="width: 12%" />
-<col style="width: 55%" />
+<col style="width: 4%" />
+<col style="width: 32%" />
+<col style="width: 11%" />
+<col style="width: 47%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Week</th>
 <th>Date</th>
 <th>Topic</th>
@@ -332,447 +364,446 @@ for that week at the beginning of class.</li>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>1</td>
-<td>Jan 10</td>
+<td>Aug 25</td>
 <td>Discussion: what is natural selection anyway 🧐?</td>
 <td>Van Cleve</td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr>
 <td>2</td>
-<td>Jan 17</td>
+<td>Sep 01</td>
 <td>Fisher’s fundamental theorem</td>
-<td>Liedtke, Parra Sotalin</td>
+<td></td>
 <td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26377503">Frank
-and Slatkin 1992</a></td>
+href="https://uk.instructure.com/courses/2200247/modules/items/29543460">Edwards
+1994</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26377504">Okasha
+href="https://uk.instructure.com/courses/2200247/modules/items/26377504">Okasha
 2008</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td>3</td>
-<td>Jan 24</td>
+<td>Sep 08</td>
 <td>Wright’s shifting balance</td>
-<td>Liedtke, ?</td>
-<td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26392491">Wright
-1932</a></td>
+<td></td>
+<td><a href="">Wright 1932</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26392490">Wright
-1988</a></td>
+<td><a href="">Wright 1988</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26392499">Wade
-and Goodnight 1991</a></td>
+<td><a href="">Wade and Goodnight 1991</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td>4</td>
-<td>Jan 31</td>
+<td>Sep 15</td>
 <td>Critique of the shifting balance</td>
-<td>Liedtke, ?</td>
-<td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26392497">Coyne
-et al. 1997</a></td>
+<td></td>
+<td><a href="">Coyne et al. 1997</a></td>
 </tr>
-<tr class="odd">
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="">Skipper 2002</a></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td>5</td>
-<td>Feb 7</td>
+<td>Sep 22</td>
 <td>A new slice of the shifting balance</td>
-<td>Cook, ?</td>
-<td>Kryazhimskiy.Rice.Desai_2012_Evolution.pdf</td>
+<td></td>
+<td><a href="">Kryazhimskiy et al. 2012</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Nahum.Godfrey-Smith.Harding.etal_2015_ProcNatlAcadSciUSA.pdf</td>
+<td><a href="">Nahum et al 2015</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>VanCleve.Weissman_2015_ProcNatlAcadSciUSA.pdf</td>
+<td><a href="">Van Cleve and Weissman 2015</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td>6</td>
-<td>Feb 14</td>
+<td>Sep 29</td>
 <td>Lewontin and adaptationism</td>
-<td>Bottger, Welc</td>
-<td>Gould.Lewontin_1979_ProcRSocB.pdf</td>
+<td></td>
+<td><a href="">Gould and Lewontin 1979</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><a
-href="https://thisviewoflife.com/the-spandrels-of-san-marco-revisited-an-interview-with-richard-c-lewontin/">Lewontin
-2015</a></td>
+<td><a href="">Lewontin 2015</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr>
 <td>7</td>
-<td>Feb 21</td>
+<td>Oct 06</td>
 <td>When fitness is not “maximized”</td>
-<td>Barker, ?</td>
-<td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26392493">Frean
-and Abraham 2001</a></td>
+<td></td>
+<td><a href="">Frean and Abraham 2001</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Kerr.Riley.Feldman_2002_Nature.pdf</td>
+<td><a href="">Brady et al. 2019</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td>8</td>
-<td>Feb 28</td>
+<td>Oct 13</td>
 <td>The Price equation, kin selection, and group selection</td>
-<td>Rahman, ?</td>
-<td>Hamilton_1975_BiosocialAnthropology.pdf</td>
+<td></td>
+<td><a href="">Hamilton 1975</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td>9</td>
-<td>Mar 7</td>
+<td>Oct 20</td>
 <td>“Design” and fitness optimization</td>
-<td>Parra Sotalin, Weisenbeck</td>
-<td>West.Gardner_2013_CurrBiol.pdf</td>
+<td></td>
+<td><a href="">Gardner 2009</a></td>
 </tr>
-<tr class="odd">
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="">Felsenstein 2007</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="">Orr 2005</a></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
-<td>Mar 14</td>
-<td><strong>Spring break</strong></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td>Oct 27</td>
+<td><strong>Fall break</strong></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>10</td>
-<td>Mar 21</td>
+<td>Nov 03</td>
 <td>Phylogeny and ecology</td>
-<td>Salano, Welc</td>
-<td>Kamilar.Cooper_2013_PhilosTransRSocB.pdf</td>
+<td></td>
+<td><a href="">Kamila and Cooper 2013</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td>11</td>
-<td>Mar 28</td>
+<td>Nov 10</td>
 <td>Molecular evolution: the Neutral Theory</td>
-<td>Bottger, Rahman</td>
-<td>Kimura_1968_Nature.pdf</td>
+<td></td>
+<td><a href="">Kimura and Ohta 1971</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Kimura.Ohta_1971_Nature.pdf</td>
+<td><a href="">Ohta 1974</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr>
 <td>12</td>
-<td>Apr 4</td>
+<td>Nov 17</td>
 <td>Molecular evolution: Kimura vs Gillespie</td>
-<td>Barker, Rahman</td>
+<td></td>
+<td><a href="">Gillespie 1987</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><a href="">Kimura 1991</a></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
+<tr>
 <td>13</td>
-<td>Apr 11</td>
+<td>Nov 24</td>
 <td>Molecular evolution: linkage and detecting selection</td>
-<td>Bottger, Weisenbeck</td>
-<td>Smith.Eyre-Walker_2002_Nature.pdf</td>
+<td></td>
+<td><a href="">Begun &amp; Aquadro 1992</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Begun.Aquadro_1992_Nature.pdf</td>
+<td><a href="">Hudson 1994</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Enard.Messer.Petrov_2014_GenomeRes.pdf</td>
+<td><a href="">Smith &amp; Eyre-Walker 2002</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr>
 <td>14</td>
-<td>Apr 18</td>
+<td>Dec 01</td>
 <td>Recent assessments of the neutral theory</td>
-<td>Barker, Cook</td>
-<td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26392487">Kern
-and Hahn 2018</a></td>
+<td></td>
+<td><a href="">Kern and Hahn 2018</a></td>
 </tr>
-<tr class="odd">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26392488">Jensen
-et al 2019</a></td>
+<td><a href="">Jensen et al 2019</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr>
 <td>15</td>
-<td>Apr 25</td>
+<td>Dec 08</td>
 <td>Natural selection and society</td>
-<td>Parra Sotalin, Salano</td>
-<td><a
-href="https://uk.instructure.com/courses/2062737/modules/items/26392486">Branch
-et al. 2022</a></td>
+<td></td>
+<td><a href="">Bird 2021</a></td>
 </tr>
-<tr class="even">
+<tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><a href="">Branch et al. 2022</a></td>
 </tr>
 </tbody>
 </table>
-<!-- ## Topics: -->
-<!-- * fisher vs wright: mass selection vs shifting balance -->
-<!--     - Ewens 2011 -->
-<!--     - Wright 1932 / 1988 / Lande 1985 -->
-<!--     - Coyne, Barton, Turelli 1997 -->
-<!--     - Kryazhimskiy / Nahum / Van Cleve -->
-<!-- * lewontin vs dawkins: spandrels or adaptations -->
-<!--     - Lewontin & Gould / Lewontin 1979 / Lewontin interview -->
-<!--     - Hastings 1981 / Frean & Abraham 2001 / Rankin 2005 -->
-<!--     - Frank 1995 on the price equation -->
-<!--     - Grafen 2008 -->
-<!--     - Lehmann & Rousset (2014) -->
-<!-- * kimura vs gillespie: drift or draft -->
-<!-- ## Key Concepts: -->
-<!-- * evolutionary change as a dynamical system -->
-<!-- * selection as hill climbing -->
-<!-- * adaptations as equilibrium points -->
-<!-- ## Crazy topics: -->
-<!-- * Steve Frank's work on evolution and information theory -->
-<!-- * Jeremy England's theory of evolution via entropy production -->
-<!-- * Selection and constraint: the role of landscape and the no free lunch theorems -->
 <h1 id="course-policies">Course policies</h1>
-<p>Please see <a href="https://www.uky.edu/universitysenate/acadpolicy"
-class="uri">https://www.uky.edu/universitysenate/acadpolicy</a> for a
-full description of UK academic policies.</p>
-<h2 id="diversity-and-inclusion">Diversity and Inclusion</h2>
+<h2 id="academic-policies">Academic policies</h2>
+<ul>
+<li><p>For full description of UK academic policies regarding excused
+absences and their verification, religious observances, prep days and
+reading days, accommodations due to disability, and non-discrimination
+and Title IX compliance, please see this link <a
+href="https://provost.uky.edu/instructor-resources/academic-policy-statements"
+class="uri">https://provost.uky.edu/instructor-resources/academic-policy-statements</a>.</p></li>
+<li><p>Mental Health Resources: <a
+href="https://studentsuccess.uky.edu/get-help"
+class="uri">https://studentsuccess.uky.edu/get-help</a></p></li>
+<li><p>Academic Support: <a
+href="https://studentsuccess.uky.edu/academicresources"
+class="uri">https://studentsuccess.uky.edu/academicresources</a></p></li>
+<li><p>Disability Resource Center: <a
+href="https://studentsuccess.uky.edu/disability-resource-center"
+class="uri">https://studentsuccess.uky.edu/disability-resource-center</a></p></li>
+<li><p>Academic Ombud: <a
+href="https://ombud.uky.edu/information-students"
+class="uri">https://ombud.uky.edu/information-students</a></p></li>
+<li><p>Classroom Emergency Preparedness and Response information: <a
+href="https://provost.uky.edu/instructor-resources#:~:text=Classroom%20Emergency%20Preparedness%20and,Preparedness%20and%20Response%20Information"
+class="uri">https://provost.uky.edu/instructor-resources#:~:text=Classroom%20Emergency%20Preparedness%20and,Preparedness%20and%20Response%20Information</a></p></li>
+</ul>
+<h2 id="belonging-and-engagement">Belonging and engagement</h2>
 <p>Members of the course are entitled to learn from each other in an
 open and welcoming environment regardless of their racial, ethnic,
 gender, and sexual identities. Conduct that is not respectful of these
-identities or of the national origin, religion, and political beliefs
+identities or of the national origin, religion, and political beliefs of
 students and instructors will not be tolerated. Please report any
 concerning conduct to the instructor.</p>
-<h2 id="face-coveringdistancing-policy">Face Covering/Distancing
-Policy</h2>
+<p>For information about reporting bias, harassment, or other issues or
+seeking accommodations, please see <a
+href="https://oeo.uky.edu/contact-us"
+class="uri">https://oeo.uky.edu/contact-us</a>.</p>
+<h2 id="face-covering-policy">Face covering policy</h2>
 <ul>
-<li><p>Transmission of COVID-19 is still prevalent in Kentucky. The
-instructor and students are entitled to practices that reduce
-transmission including, and not limited to, wearing a high-quality mask
-and social distancing.</p></li>
-<li><p>In accordance with University guidelines, these transmission
-reducing practices are optional but the instructor encourages them. If
-COVID-19 is a specific risk to a student or a student has any concerns
-about classroom COVID-19 policies, please contact the instructor as soon
-as possible.</p></li>
-<li><p>More information about COVID-19 and UK can be found here: <a
-href="https://coronavirus.uky.edu/"
-class="uri">https://coronavirus.uky.edu/</a></p></li>
+<li><p>Transmission of COVID-19, influenza, and other airborne
+respiratory illnesses is an important issue, especially during fall and
+winter months. The instructor and students are entitled to practices
+that reduce transmission including, and not limited to, wearing a
+high-quality mask and social distancing.</p></li>
+<li><p>These transmission reducing practices are optional. If COVID-19,
+influenza, or another airborne illness is a specific risk to a student
+or a student has any concerns about classroom policies, please contact
+the instructor as soon as possible.</p></li>
 </ul>
+<h2 id="generative-ai-policy">Generative AI Policy</h2>
+<p>Education is exercise for your mind. Just as there are varying levels
+of assistance that an e-bike can give you on a bike ride, generative AI
+(genAI) can be used in different ways and to varying degrees. This
+course provides some potentially challenging concepts, and genAI can
+either gently assist a heavy lift if used correctly or provide a generic
+answer that doesn’t actually challenge your conceptual
+understanding.</p>
+<p>Since this course relies heavily on reading primary literature and
+conceptual papers, it may be tempting to ask genAI for summaries of the
+papers or to draft discussion topics or questions. Please resist this
+urge. Consider genAI a knowledgeable “thought partner” who can help you
+more quickly get the gist of a concept and then locate appropriate
+additional reading to better understand it. Once you’ve done that work,
+the discussion topics and questions will come naturally from your own
+exploration of the subject matter.</p>
+<p>In short, the course policy is a modified Level 2 from here: <a
+href="https://celt.uky.edu/student-ai-use-scale"
+class="uri">https://celt.uky.edu/student-ai-use-scale</a>. You can use
+genAI to help find additional primary or secondary resources, but it
+should not be the final source of your understanding of concepts in the
+papers nor should it generate the topics and questions for class
+discussions.</p>
 <h2 id="excused-absences">Excused Absences</h2>
 <p>Students need to notify the instructor of absences prior to class
-when possible. Senate Rule Senate Rules 5.2.5.2.1 defines the following
-as acceptable reasons for excused absences: (a) significant illness, (b)
-death of a family member, (c) trips for members of student organizations
-sponsored by an educational unit, trips for University classes, and
-trips for participation in intercollegiate athletic events, (d) major
-religious holidays, (e) interviews for graduate/professional school or
-full-time employment post-graduation, and (f) other circumstances found
-to fit “reasonable cause for nonattendance” by the professor.</p>
+when possible. University rules define the following as acceptable
+reasons for excused absences: (a) significant illness, (b) death of a
+family member, (c) trips for members of student organizations sponsored
+by an educational unit, trips for University classes, and trips for
+participation in intercollegiate athletic events, (d) major religious
+holidays, (e) interviews for graduate/professional school or full-time
+employment post-graduation, and (f) other circumstances found to fit
+“reasonable cause for nonattendance” by the professor.</p>
 <p>Students anticipating an absence for a major religious holiday are
 responsible for notifying the instructor in writing of anticipated
 absences due to their observance of such holidays no later than the last
-day in the semester to add a class. Students are expected to withdraw
-from the class if more than 20% of the classes scheduled for the
-semester are missed (excused or unexcused) per university policy.</p>
+day in the semester to add a class.</p>
 <h2 id="verification-of-absences">Verification of Absences</h2>
 <p>Students may be asked to verify their absences in order for them to
-be considered excused. Senate Rule 5.2.5.2.1 states that faculty have
-the right to request appropriate verification when students claim an
-excused absence due to: significant illness; death in the household,
-trips for classes, trips sponsored by an educational unit and trips for
+be considered excused. University rules state that faculty have the
+right to request appropriate verification when students claim an excused
+absence due to: significant illness; death in the household, trips for
+classes, trips sponsored by an educational unit and trips for
 participation related to intercollegiate athletic events; and interviews
 for full-time job opportunities after graduation and interviews for
 graduate and professional school.</p>
 <h2 id="academic-integrity">Academic Integrity</h2>
 <p>Per university policy, students shall not plagiarize, cheat, or
-falsify or misuse academic records. Students are expected to adhere to
+falsify or misuse academic work. Students are expected to adhere to
 University policy on cheating and plagiarism in all courses. The minimum
 penalty for a first offense is a zero on the assignment on which the
 offense occurred. If the offense is considered severe or the student has
 other academic offenses on their record, more serious penalties, up to
 suspension from the university may be imposed.</p>
-<p>Plagiarism and cheating are serious breaches of academic conduct.
-Each student is advised to become familiar with the various forms of
-academic dishonesty as explained in the Code of Student Rights and
-Responsibilities. Complete information can be found at the following
-website: <a href="https://www.uky.edu/ombud/"
-class="uri">https://www.uky.edu/ombud/</a>. A plea of ignorance is not
-acceptable as a defense against the charge of academic dishonesty. It is
-important that you review this information as all ideas borrowed from
-others need to be properly credited.</p>
-<p>Section 6.3 “Academic Offenses and Procedures” of the <a
-href="http://www.uky.edu/universitysenate/rules-regulations">Senate
-Rules</a> lays out UK’s policy on academic integrity and says the
-following about plagarism and</p>
-<h2 id="accommodations-due-to-disability">Accommodations due to
-disability</h2>
-<p>In accordance with federal law, if you have a documented disability
-that requires academic accommodations, please inform me as soon as
-possible. In order to receive accommodations in a course, you must
-provide me with a Letter of Accommodation from the Disability Resource
-Center (DRC).</p>
-<p>The DRC coordinates campus disability services available to students
-with disabilities. It is located on the corner of Rose Street and
-Huguelet Drive in the Multidisciplinary Science Building, Suite 407. You
-can reach them via phone at (859) 257-2754, via email (<a
-href="mailto:drc@uky.edu" class="email">drc@uky.edu</a>) or visit their
-website (<a href="https://www.uky.edu/DisabilityResourceCenter/"
-class="uri">https://www.uky.edu/DisabilityResourceCenter/</a>). DRC
-accommodations are not retroactive and should therefore be established
-with the DRC as early in the semester as is feasible.</p>
+<p>Complete information on university policy can be found at the
+following website: <a
+href="https://provost.uky.edu/proposals/guidance-course-proposals/academic-offenses"
+class="uri">https://provost.uky.edu/proposals/guidance-course-proposals/academic-offenses</a>.</p>
 </body>
 </html>

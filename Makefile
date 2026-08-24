@@ -1,4 +1,4 @@
-PANDOC := /usr/local/bin/pandoc
+PANDOC := /opt/homebrew/bin/pandoc
 MD_FILES := syllabus_main.md syllabus_classes.md syllabus_policies.md
 
 all: syllabus.md
@@ -15,8 +15,11 @@ syllabus.html: syllabus.md
 
 tex: syllabus.tex
 syllabus.tex: syllabus.md
-	$(PANDOC) syllabus.md --pdf-engine=lualatex -d main -s -o syllabus.tex
+	$(PANDOC) syllabus.md --defaults=syllabus.yaml -s -o syllabus.tex
 
 pdf: syllabus.pdf
 syllabus.pdf: syllabus.md
-	$(PANDOC) syllabus.md -d main -o syllabus.pdf
+	$(PANDOC) syllabus.md --defaults=syllabus.yaml -o syllabus.pdf
+
+clean:
+	rm syllabus.md
