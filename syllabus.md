@@ -1,11 +1,5 @@
 ---
 title: BIO 770 – Dr. Pangloss reborn? The ebb and flow of natural selection in evolution – Fall 2026
-header-includes: |
-  <style>
-  body {
-    max-width: 50em;
-  }
-  </style>
 ---
 
 [canvas site]: https://uk.instructure.com/courses/2200247
