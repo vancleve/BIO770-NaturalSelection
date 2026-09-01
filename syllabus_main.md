@@ -7,7 +7,7 @@ title: BIO 770 – Dr. Pangloss reborn? The ebb and flow of natural selection in
 |                                                              |                                                                |                                                               |
 |:-------------------------------------------------------------|:--------------------------------------------------------------:|--------------------------------------------------------------:|
 |                                                              |   ![](landscape.png){height=200, alt="A fitness landscape"}    |                                                               |
-| ![](fisher_sm.jpg){height=200, alt="A photo of R.A. Fisher"} | ![](wright_sm.jpg){height=200, atl="A photo of Sewall Wright"} | ![](kimura_sm.jpg){height=200, alt="A photo of Motoo Kimura"} |
+| ![](fisher_sm.jpg){height=200, alt="A photo of R.A. Fisher"} | ![](wright_sm.jpg){height=200, alt="A photo of Sewall Wright"} | ![](kimura_sm.jpg){height=200, alt="A photo of Motoo Kimura"} |
    
 
 # Course information

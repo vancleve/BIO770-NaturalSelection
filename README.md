@@ -1,7 +1,7 @@
 |  |  |  |
 |:---|:--:|---:|
 |  | <img src="landscape.png" alt="A fitness landscape" /> |  |
-| <img src="fisher_sm.jpg" alt="A photo of R.A. Fisher" /> | <img src="wright_sm.jpg" data-atl="A photo of Sewall Wright" /> | <img src="kimura_sm.jpg" alt="A photo of Motoo Kimura" /> |
+| <img src="fisher_sm.jpg" alt="A photo of R.A. Fisher" /> | <img src="wright_sm.jpg" alt="A photo of Sewall Wright" /> | <img src="kimura_sm.jpg" alt="A photo of Motoo Kimura" /> |
 
 # Course information
 
