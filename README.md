@@ -41,13 +41,13 @@ The course will focus on readings from the primary literature with augmentation 
 
 ## Discussion leadership
 
-Each student should sign up to be a co-leader for **TWO** topics. To sign up:
+Each student should sign up to be a co-leader for **FOUR** topics. To sign up:
 
 1.  Go to the the [Canvas site](https://uk.instructure.com/courses/2200247).
 2.  Click on “Calendar” on the left hand navigation bar.
 3.  Click “Find Appointment” on the right hand side.
 4.  Select “BIO770: Dr. Panglos…” and hit “Submit”.
-5.  Sign up for **two dates** to co-lead discussion.
+5.  Sign up for **four dates** to co-lead discussion.
 
 Leading the discussion means:
 
