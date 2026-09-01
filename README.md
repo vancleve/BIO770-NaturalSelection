@@ -1,39 +1,52 @@
-|  |  |  |
-|:---|:--:|---:|
-|  | <img src="landscape.png" title="A fitness landscape" height="200" /> |  |
-| <img src="fisher_sm.jpg" title="A photo of R.A. Fisher" height="200" /> | <img src="wright_sm.jpg" title="A photo of Sewall Wright"
-height="200" /> | <img src="kimura_sm.jpg" title="A photo of Motoo Kimura" height="200" /> |
+  ----------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------------------
+                                                                 ![](landscape.png "A fitness landscape"){height="200"}     
+
+  ![](fisher_sm.jpg "A photo of R.A. Fisher"){height="200"}    ![](wright_sm.jpg "A photo of Sewall Wright"){height="200"}    ![](kimura_sm.jpg "A photo of Motoo Kimura"){height="200"}
+  ----------------------------------------------------------- ------------------------------------------------------------- ------------------------------------------------------------
 
 # Course information
 
-|  |  |
-|----|----|
-| **Instructor** | Dr. Jeremy Van Cleve |
-| **E-mail** | <jvancleve@uky.edu> |
-| **Phone** | \(859\) 218-3020 |
-| **Office** | THM 216 |
-| **Office hours** | By appointment |
-|  |  |
-| **Class Time** | T 3:30 PM – 4:20 PM |
-| **Class Location** | JSB 243 |
-| **Website** | <https://vancleve.github.io/BIO770-NaturalSelection> (Website) |
-|  | <https://uk.instructure.com/courses/2200247> (Canvas) |
-|  |  |
-| **Credits** | 1 |
+  ---------------- ------------------------------------------------------
+  **Instructor**   Dr. Jeremy Van Cleve
+
+  **E-mail**       <jvancleve@uky.edu>
+
+  **Phone**        \(859\) 218-3020
+
+  **Office**       THM 216
+
+  **Office hours** By appointment
+
+                   
+
+  **Class Time**   T 3:30 PM -- 4:20 PM
+
+  **Class          JSB 243
+  Location**       
+
+  **Website**      <https://vancleve.github.io/BIO770-NaturalSelection>
+                   (Website)
+
+                   <https://uk.instructure.com/courses/2200247> (Canvas)
+
+                   
+
+  **Credits**      1
+  ---------------- ------------------------------------------------------
 
 # Course description
 
 The aim of this course will be to review some of the past and current
 issues with the role and significance of natural selection in
 evolutionary change. Although natural selection was the main focus in
-Darwin’s *On the Origin of Species by Means of Natural Selection*,
+Darwin's *On the Origin of Species by Means of Natural Selection*,
 evolutionary forces such as mutation, recombination, migration, and
 genetic drift are integral to a complete understanding of evolutionary
 change. The relative importance of these nonselective forces in shaping
 organisms have long been a topic of substantial study and debate both
 using both theoretical and empirical tools. Beginning with the rival
 viewpoints of Sewall Wright and Ronald Fisher who helped establish the
-“modern evolutionary synthesis”, the course will involve reading and
+"modern evolutionary synthesis", the course will involve reading and
 discussion of classic and recent scientific papers that investigate
 selective and nonselective forces. Attention will be paid to the
 conceptual and mathematical theory that provides a framework for
@@ -48,15 +61,15 @@ evolutionary forces, students should be able to:
 - Summarize the major strains of thought concerning the important of
   natural selection in shaping biological traits
 - Connect current controversies regarding natural selection and
-  evolution with their antecedents in the formation of the “modern
-  synthesis” in the 1930s.
+  evolution with their antecedents in the formation of the "modern
+  synthesis" in the 1930s.
 - Relate current issues regarding the detection of selection from
   genetic data and the assembly of genealogies and phylogenies to
-  Kimura’s “neutral theory of molecular evolution” and the “modern
-  synthesis”.
+  Kimura's "neutral theory of molecular evolution" and the "modern
+  synthesis".
 - Map the concepts of natural selection and adaptation to mathematical
-  formalisms including “selection gradients”, “evolutionary equilibria”,
-  and “evolutionarily stable strategies”.
+  formalisms including "selection gradients", "evolutionary equilibria",
+  and "evolutionarily stable strategies".
 
 # Course materials
 
@@ -72,9 +85,9 @@ sign up:
 
 1.  Go to the the [Canvas
     site](https://uk.instructure.com/courses/2200247).
-2.  Click on “Calendar” on the left hand navigation bar.
-3.  Click “Find Appointment” on the right hand side.
-4.  Select “BIO770: Dr. Panglos…” and hit “Submit”.
+2.  Click on "Calendar" on the left hand navigation bar.
+3.  Click "Find Appointment" on the right hand side.
+4.  Select "BIO770: Dr. Panglos..." and hit "Submit".
 5.  Sign up for **two dates** to co-lead discussion.
 
 Leading the discussion means:
@@ -107,57 +120,129 @@ based on the readings.
 
 # Class and reading schedule
 
-| Week | Date | Topic | Discussion leaders | Readings (PDFs located on Canvas) |
-|----|----|----|----|----|
-| 1 | Aug 25 | Discussion: what is natural selection anyway 🧐? | Van Cleve |  |
-|  |  |  |  |  |
-| 2 | Sep 01 | Fisher’s fundamental theorem | Pacheco Romero | [Edwards 1994](https://uk.instructure.com/courses/2200247/modules/items/29543460) |
-|  |  |  |  | [Okasha 2008](https://uk.instructure.com/courses/2200247/modules/items/26377504) |
-|  |  |  |  |  |
-| 3 | Sep 08 | Wright’s shifting balance | Ewing | [Wright 1932](https://uk.instructure.com/courses/2200247/modules/items/29575212) |
-|  |  |  | Fowler | [Wright 1988](https://uk.instructure.com/courses/2200247/modules/items/29575213) |
-|  |  |  |  | [Wade and Goodnight 1991](https://uk.instructure.com/courses/2200247/modules/items/29575211) |
-|  |  |  |  |  |
-| 4 | Sep 15 | Critique of the shifting balance | Ewing | [Coyne et al. 1997]() |
-|  |  |  | Orocu | [Skipper 2002]() |
-|  |  |  |  |  |
-| 5 | Sep 22 | Mutations and genetic load | Thackston |  |
-|  |  |  | Zakeri |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-| 6 | Sep 29 | Lewontin and adaptationism | Thackston | [Gould and Lewontin 1979]() |
-|  |  |  | Wang | [Lewontin 2015]() |
-|  |  |  |  |  |
-| 7 | Oct 06 | When fitness is not “maximized” | Fowler | [Frean and Abraham 2001]() |
-|  |  |  | Pacheco Romero | [Brady et al. 2019]() |
-|  |  |  |  |  |
-| 8 | Oct 13 | The Price equation, kin selection, and group selection | Orocu | [Hamilton 1975]() |
-|  |  |  | Wang |  |
-|  |  |  |  |  |
-| 9 | Oct 20 | “Design” and fitness optimization | Fowler | [Gardner 2009]() |
-|  |  |  | Orocu | [Felsenstein 2007]() |
-|  |  |  |  | [Orr 2005]() |
-|  |  |  |  |  |
-|  | Oct 27 | **Fall break** |  |  |
-|  |  |  |  |  |
-| 10 | Nov 03 | Phylogeny and ecology | Orocu | [Kamila and Cooper 2013]() |
-|  |  |  | Wang |  |
-|  |  |  |  |  |
-| 11 | Nov 10 | Molecular evolution: the Neutral Theory | Ewing | [Kimura and Ohta 1971]() |
-|  |  |  | Zakeri | [Ohta 1974]() |
-|  |  |  |  |  |
-| 12 | Nov 17 | Molecular evolution: Kimura vs Gillespie | Pacheco Romero | [Gillespie 1987]() |
-|  |  |  | Zakeri | [Kimura 1991]() |
-|  |  |  |  |  |
-| 13 | Nov 24 | Molecular evolution: linkage and detecting selection | Ewing | [Begun & Aquadro 1992]() |
-|  |  |  | Thackston | [Hudson 1994]() |
-|  |  |  |  | [Smith & Eyre-Walker 2002]() |
-|  |  |  |  |  |
-| 14 | Dec 01 | Recent assessments of the neutral theory | Thackston | [Kern and Hahn 2018]() |
-|  |  |  | Zakeri | [Jensen et al 2019]() |
-|  |  |  |  |  |
-| 15 | Dec 08 | Natural selection and society | Fowler | [Bird 2021]() |
-|  |  |  | Wang | [Branch et al. 2022]() |
+  ---------------------------------------------------------------------------------------------------------------------------
+  Week   Date   Topic                 Discussion   Readings (PDFs located on Canvas)
+                                      leaders      
+  ------ ------ --------------------- ------------ --------------------------------------------------------------------------
+  1      Aug 25 Discussion: what is   Van Cleve    
+                natural selection                  
+                anyway 🧐?                         
+
+                                                   
+
+  2      Sep 01 Fisher's fundamental  Pacheco      [Edwards
+                theorem               Romero       1994](https://uk.instructure.com/courses/2200247/modules/items/29543460)
+
+                                                   [Okasha
+                                                   2008](https://uk.instructure.com/courses/2200247/modules/items/26377504)
+
+                                                   
+
+  3      Sep 08 Wright's shifting     Ewing        [Wright
+                balance                            1932](https://uk.instructure.com/courses/2200247/modules/items/29575212)
+
+                                      Fowler       [Wright
+                                                   1988](https://uk.instructure.com/courses/2200247/modules/items/29575213)
+
+                                                   [Wade and Goodnight
+                                                   1991](https://uk.instructure.com/courses/2200247/modules/items/29575211)
+
+                                                   
+
+  4      Sep 15 Critique of the       Ewing        [Coyne et al. 1997]()
+                shifting balance                   
+
+                                      Orocu        [Skipper 2002]()
+
+                                                   
+
+  5      Sep 22 Mutations and genetic Thackston    
+                load                               
+
+                                      Zakeri       
+
+                                                   
+
+                                                   
+
+  6      Sep 29 Lewontin and          Thackston    [Gould and Lewontin 1979]()
+                adaptationism                      
+
+                                      Wang         [Lewontin 2015]()
+
+                                                   
+
+  7      Oct 06 When fitness is not   Fowler       [Frean and Abraham 2001]()
+                "maximized"                        
+
+                                      Pacheco      [Brady et al. 2019]()
+                                      Romero       
+
+                                                   
+
+  8      Oct 13 The Price equation,   Orocu        [Hamilton 1975]()
+                kin selection, and                 
+                group selection                    
+
+                                      Wang         
+
+                                                   
+
+  9      Oct 20 "Design" and fitness  Fowler       [Gardner 2009]()
+                optimization                       
+
+                                      Orocu        [Felsenstein 2007]()
+
+                                                   [Orr 2005]()
+
+                                                   
+
+         Oct 27 **Fall break**                     
+
+                                                   
+
+  10     Nov 03 Phylogeny and ecology Orocu        [Kamila and Cooper 2013]()
+
+                                      Wang         
+
+                                                   
+
+  11     Nov 10 Molecular evolution:  Ewing        [Kimura and Ohta 1971]()
+                the Neutral Theory                 
+
+                                      Zakeri       [Ohta 1974]()
+
+                                                   
+
+  12     Nov 17 Molecular evolution:  Pacheco      [Gillespie 1987]()
+                Kimura vs Gillespie   Romero       
+
+                                      Zakeri       [Kimura 1991]()
+
+                                                   
+
+  13     Nov 24 Molecular evolution:  Ewing        [Begun & Aquadro 1992]()
+                linkage and detecting              
+                selection                          
+
+                                      Thackston    [Hudson 1994]()
+
+                                                   [Smith & Eyre-Walker 2002]()
+
+                                                   
+
+  14     Dec 01 Recent assessments of Thackston    [Kern and Hahn 2018]()
+                the neutral theory                 
+
+                                      Zakeri       [Jensen et al 2019]()
+
+                                                   
+
+  15     Dec 08 Natural selection and Fowler       [Bird 2021]()
+                society                            
+
+                                      Wang         [Branch et al. 2022]()
+  ---------------------------------------------------------------------------------------------------------------------------
 
 # Course policies
 
@@ -213,14 +298,14 @@ assistance that an e-bike can give you on a bike ride, generative AI
 (genAI) can be used in different ways and to varying degrees. This
 course provides some potentially challenging concepts, and genAI can
 either gently assist a heavy lift if used correctly or provide a generic
-answer that doesn’t actually challenge your conceptual understanding.
+answer that doesn't actually challenge your conceptual understanding.
 
 Since this course relies heavily on reading primary literature and
 conceptual papers, it may be tempting to ask genAI for summaries of the
 papers or to draft discussion topics or questions. Please resist this
-urge. Consider genAI a knowledgeable “thought partner” who can help you
+urge. Consider genAI a knowledgeable "thought partner" who can help you
 more quickly get the gist of a concept and then locate appropriate
-additional reading to better understand it. Once you’ve done that work,
+additional reading to better understand it. Once you've done that work,
 the discussion topics and questions will come naturally from your own
 exploration of the subject matter.
 
@@ -240,7 +325,7 @@ educational unit, trips for University classes, and trips for
 participation in intercollegiate athletic events, (d) major religious
 holidays, (e) interviews for graduate/professional school or full-time
 employment post-graduation, and (f) other circumstances found to fit
-“reasonable cause for nonattendance” by the professor.
+"reasonable cause for nonattendance" by the professor.
 
 Students anticipating an absence for a major religious holiday are
 responsible for notifying the instructor in writing of anticipated

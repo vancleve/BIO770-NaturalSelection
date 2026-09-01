@@ -7,7 +7,7 @@ md: syllabus.md
 
 syllabus.md: syllabus_main.md syllabus_classes.md syllabus_policies.md
 	cat syllabus_main.md syllabus_classes.md syllabus_policies.md > syllabus.md
-	$(PANDOC) syllabus.md -t gfm -o README.md
+	$(PANDOC) syllabus.md -o README.md
 
 html: syllabus.html
 syllabus.html: syllabus.md
