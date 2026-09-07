@@ -77,15 +77,15 @@ Before each class meeting, each student should prepare **two questions** based o
 |----|----|----|----|----|
 | 1 | Aug 25 | Discussion: what is natural selection anyway 🧐? | Van Cleve |  |
 |  |  |  |  |  |
-| 2 | Sep 01 | Fisher’s fundamental theorem | Pacheco Romero | [Edwards 1994](https://uk.instructure.com/courses/2200247/modules/items/29543460) |
-|  |  |  |  | [Okasha 2008](https://uk.instructure.com/courses/2200247/modules/items/26377504) |
+| 2 | Sep 01 | Fisher’s fundamental theorem | Pacheco Romero | <a href="https://uk.instructure.com/courses/2200247/modules/items/29543460" target="_blank">Edwards 1994</a> |
+|  |  |  |  | <a href="https://uk.instructure.com/courses/2200247/modules/items/26377504" target="_blank">Okasha 2008</a> |
 |  |  |  |  |  |
-| 3 | Sep 08 | Wright’s shifting balance | Ewing | [Wright 1932](https://uk.instructure.com/courses/2200247/modules/items/29575212) |
-|  |  |  | Fowler | [Wright 1988](https://uk.instructure.com/courses/2200247/modules/items/29575213) |
-|  |  |  |  | [Wade and Goodnight 1991](https://uk.instructure.com/courses/2200247/modules/items/29575211) |
+| 3 | Sep 08 | Wright’s shifting balance | Ewing | <a href="https://uk.instructure.com/courses/2200247/modules/items/29575212" target="_blank">Wright 1932</a> |
+|  |  |  | Fowler | <a href="https://uk.instructure.com/courses/2200247/modules/items/29575213" target="_blank">Wright 1988</a> |
+|  |  |  |  | <a href="https://uk.instructure.com/courses/2200247/modules/items/29575211" target="_blank">Wade and Goodnight 1991</a> |
 |  |  |  |  |  |
-| 4 | Sep 15 | Critique of the shifting balance | Ewing | [Coyne et al. 1997](https://uk.instructure.com/courses/2200247/modules/items/29582622) |
-|  |  |  | Orocu | [Skipper 2002](https://uk.instructure.com/courses/2200247/modules/items/29582621) |
+| 4 | Sep 15 | Critique of the shifting balance | Ewing | <a href="https://uk.instructure.com/courses/2200247/modules/items/29582622" target="_blank">Coyne et al. 1997</a> |
+|  |  |  | Orocu | <a href="https://uk.instructure.com/courses/2200247/modules/items/29582621" target="_blank">Skipper 2002</a> |
 |  |  |  |  |  |
 | 5 | Sep 22 | Mutations and genetic load | Thackston |  |
 |  |  |  | Zakeri |  |
