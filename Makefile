@@ -11,7 +11,7 @@ syllabus.md: syllabus_main.md syllabus_classes.md syllabus_policies.md
 
 html: syllabus.html
 syllabus.html: syllabus.md
-	$(PANDOC) syllabus.md -s -o syllabus.html
+	$(PANDOC) syllabus.md -s --variable="maxwidth=50em" -o syllabus.html
 
 tex: syllabus.tex
 syllabus.tex: syllabus.md
