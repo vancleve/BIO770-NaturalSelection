@@ -12,12 +12,11 @@
 |      |        |                                                        | Fowler             | [Wright 1988](https://uk.instructure.com/courses/2200247/modules/items/29575213)             |
 |      |        |                                                        |                    | [Wade and Goodnight 1991](https://uk.instructure.com/courses/2200247/modules/items/29575211) |
 |      |        |                                                        |                    |                                                                                              |
-| 4    | Sep 15 | Critique of the shifting balance                       | Ewing              | [Coyne et al. 1997]()                                                                        |
-|      |        |                                                        | Orocu              | [Skipper 2002]()                                                                             |
+| 4    | Sep 15 | Critique of the shifting balance                       | Ewing              | [Coyne et al. 1997](https://uk.instructure.com/courses/2200247/modules/items/29582622)       |
+|      |        |                                                        | Orocu              | [Skipper 2002](https://uk.instructure.com/courses/2200247/modules/items/29582621)            |
 |      |        |                                                        |                    |                                                                                              |
 | 5    | Sep 22 | Mutations and genetic load                             | Thackston          |                                                                                              |
 |      |        |                                                        | Zakeri             |                                                                                              |
-|      |        |                                                        |                    |                                                                                              |
 |      |        |                                                        |                    |                                                                                              |
 | 6    | Sep 29 | Lewontin and adaptationism                             | Thackston          | [Gould and Lewontin 1979]()                                                                  |
 |      |        |                                                        | Wang               | [Lewontin 2015]()                                                                            |
