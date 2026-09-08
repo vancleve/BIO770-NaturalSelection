@@ -15,8 +15,9 @@
 | 4    | Sep 15 | Critique of the shifting balance                       | Ewing              | [Coyne et al. 1997](https://uk.instructure.com/courses/2200247/modules/items/29582622){target="_blank"}       |
 |      |        |                                                        | Orocu              | [Skipper 2002](https://uk.instructure.com/courses/2200247/modules/items/29582621){target="_blank"}            |
 |      |        |                                                        |                    |                                                                                                               |
-| 5    | Sep 22 | Mutations and genetic load                             | Thackston          |                                                                                                               |
-|      |        |                                                        | Zakeri             |                                                                                                               |
+| 5    | Sep 22 | Mutations and the cost of selection                    | Thackston          | [Haldane 1957](https://uk.instructure.com/courses/2200247/modules/items/29583011){target="_blank"}            |
+|      |        |                                                        | Zakeri             | [Maynard Smith 1968](https://uk.instructure.com/courses/2200247/modules/items/29583010){target="_blank"}      |
+|      |        |                                                        |                    | [Charlesworth 2017](https://uk.instructure.com/courses/2200247/modules/items/29583012){target="_blank"}       |
 |      |        |                                                        |                    |                                                                                                               |
 | 6    | Sep 29 | Lewontin and adaptationism                             | Thackston          | [Gould and Lewontin 1979]()                                                                                   |
 |      |        |                                                        | Wang               | [Lewontin 2015]()                                                                                             |

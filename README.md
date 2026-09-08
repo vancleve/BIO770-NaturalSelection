@@ -87,8 +87,9 @@ Before each class meeting, each student should prepare **two questions** based o
 | 4 | Sep 15 | Critique of the shifting balance | Ewing | <a href="https://uk.instructure.com/courses/2200247/modules/items/29582622" target="_blank">Coyne et al. 1997</a> |
 |  |  |  | Orocu | <a href="https://uk.instructure.com/courses/2200247/modules/items/29582621" target="_blank">Skipper 2002</a> |
 |  |  |  |  |  |
-| 5 | Sep 22 | Mutations and genetic load | Thackston |  |
-|  |  |  | Zakeri |  |
+| 5 | Sep 22 | Mutations and the cost of selection | Thackston | <a href="https://uk.instructure.com/courses/2200247/modules/items/29583011" target="_blank">Haldane 1957</a> |
+|  |  |  | Zakeri | <a href="https://uk.instructure.com/courses/2200247/modules/items/29583010" target="_blank">Maynard Smith 1968</a> |
+|  |  |  |  | <a href="https://uk.instructure.com/courses/2200247/modules/items/29583012" target="_blank">Charlesworth 2017</a> |
 |  |  |  |  |  |
 | 6 | Sep 29 | Lewontin and adaptationism | Thackston | [Gould and Lewontin 1979]() |
 |  |  |  | Wang | [Lewontin 2015]() |
