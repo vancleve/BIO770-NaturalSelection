@@ -99,8 +99,9 @@ Before each class meeting, each student should prepare **two questions** based o
 |      |        |                                                        | Zakeri             | [Maynard Smith 1968](https://uk.instructure.com/courses/2200247/modules/items/29583010){target="_blank"}      |
 |      |        |                                                        |                    | [Charlesworth 2017](https://uk.instructure.com/courses/2200247/modules/items/29583012){target="_blank"}       |
 |      |        |                                                        |                    |                                                                                                               |
-| 6    | Sep 29 | Lewontin and adaptationism                             | Thackston          | [Gould and Lewontin 1979]()                                                                                   |
-|      |        |                                                        | Wang               | [Lewontin 2015]()                                                                                             |
+| 6    | Sep 29 | Lewontin and adaptationism                             | Thackston          | [Gould and Lewontin 1979](https://uk.instructure.com/courses/2200247/modules/items/29592688){target="_blank"} |
+|      |        |                                                        | Wang               | [Gould and Vrba 1982](https://uk.instructure.com/courses/2200247/modules/items/29592687){target="_blank"}     |
+|      |        |                                                        |                    | [Wilson 2015](https://uk.instructure.com/courses/2200247/modules/items/29592689){target="_blank"}             |
 |      |        |                                                        |                    |                                                                                                               |
 | 7    | Oct 06 | When fitness is not "maximized"                        | Fowler             | [Frean and Abraham 2001]()                                                                                    |
 |      |        |                                                        | Pacheco Romero     | [Brady et al. 2019]()                                                                                         |

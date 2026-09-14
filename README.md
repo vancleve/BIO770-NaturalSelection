@@ -91,8 +91,9 @@ Before each class meeting, each student should prepare **two questions** based o
 |  |  |  | Zakeri | <a href="https://uk.instructure.com/courses/2200247/modules/items/29583010" target="_blank">Maynard Smith 1968</a> |
 |  |  |  |  | <a href="https://uk.instructure.com/courses/2200247/modules/items/29583012" target="_blank">Charlesworth 2017</a> |
 |  |  |  |  |  |
-| 6 | Sep 29 | Lewontin and adaptationism | Thackston | [Gould and Lewontin 1979]() |
-|  |  |  | Wang | [Lewontin 2015]() |
+| 6 | Sep 29 | Lewontin and adaptationism | Thackston | <a href="https://uk.instructure.com/courses/2200247/modules/items/29592688" target="_blank">Gould and Lewontin 1979</a> |
+|  |  |  | Wang | <a href="https://uk.instructure.com/courses/2200247/modules/items/29592687" target="_blank">Gould and Vrba 1982</a> |
+|  |  |  |  | <a href="https://uk.instructure.com/courses/2200247/modules/items/29592689" target="_blank">Wilson 2015</a> |
 |  |  |  |  |  |
 | 7 | Oct 06 | When fitness is not “maximized” | Fowler | [Frean and Abraham 2001]() |
 |  |  |  | Pacheco Romero | [Brady et al. 2019]() |
