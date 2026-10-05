@@ -23,11 +23,11 @@
 |      |        |                                                        | Wang               | [Gould and Vrba 1982](https://uk.instructure.com/courses/2200247/modules/items/29592687){target="_blank"}     |
 |      |        |                                                        |                    | [Wilson 2015](https://uk.instructure.com/courses/2200247/modules/items/29592689){target="_blank"}             |
 |      |        |                                                        |                    |                                                                                                               |
-| 7    | Oct 06 | When fitness is not "maximized"                        | Fowler             | [Frean and Abraham 2001]()                                                                                    |
-|      |        |                                                        | Pacheco Romero     | [Brady et al. 2019]()                                                                                         |
+| 7    | Oct 06 | When fitness is not "maximized"                        | Fowler             | [Frean and Abraham 2001](https://uk.instructure.com/courses/2200247/modules/items/29607346){target="_blank"}  |
+|      |        |                                                        | Pacheco Romero     | [Brady et al. 2019](https://uk.instructure.com/courses/2200247/modules/items/29607347){target="_blank"}       |
 |      |        |                                                        |                    |                                                                                                               |
-| 8    | Oct 13 | The Price equation, kin selection, and group selection | Orocu              | [Hamilton 1975]()                                                                                             |
-|      |        |                                                        | Wang               |                                                                                                               |
+| 8    | Oct 13 | The Price equation, kin selection, and group selection | Orocu              | [Hamilton 1975](https://uk.instructure.com/courses/2200247/modules/items/29627909){target="_blank"}           |
+|      |        |                                                        | Wang               | [Birch 2020](https://uk.instructure.com/courses/2200247/modules/items/29627908){target="_blank"}              |
 |      |        |                                                        |                    |                                                                                                               |
 | 9    | Oct 20 | "Design" and fitness optimization                      | Fowler             | [Gardner 2009]()                                                                                              |
 |      |        |                                                        | Orocu              | [Felsenstein 2007]()                                                                                          |
