@@ -101,9 +101,9 @@ Before each class meeting, each student should prepare **two questions** based o
 | 8 | Oct 13 | The Price equation, kin selection, and group selection | Orocu | <a href="https://uk.instructure.com/courses/2200247/modules/items/29627909" target="_blank">Hamilton 1975</a> |
 |  |  |  | Wang | <a href="https://uk.instructure.com/courses/2200247/modules/items/29627908" target="_blank">Birch 2020</a> |
 |  |  |  |  |  |
-| 9 | Oct 20 | “Design” and fitness optimization | Fowler | [Gardner 2009]() |
-|  |  |  | Orocu | [Felsenstein 2007]() |
-|  |  |  |  | [Orr 2005]() |
+| 9 | Oct 20 | “Design” and fitness optimization | Fowler | <a href="https://uk.instructure.com/courses/2200247/modules/items/29639664" target="_blank">Orr 2005</a> |
+|  |  |  | Orocu | <a href="https://uk.instructure.com/courses/2200247/modules/items/29639663" target="_blank">Felsenstein 2007</a> |
+|  |  |  |  | <a href="https://uk.instructure.com/courses/2200247/modules/items/29639662" target="_blank">Gardner 2009</a> |
 |  |  |  |  |  |
 |  | Oct 27 | **Fall break** |  |  |
 |  |  |  |  |  |
