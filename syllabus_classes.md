@@ -35,8 +35,8 @@
 |      |        |                                                        |                    |                                                                                                               |
 |      | Oct 27 | **Fall break**                                         |                    |                                                                                                               |
 |      |        |                                                        |                    |                                                                                                               |
-| 10   | Nov 03 | Phylogeny and ecology                                  | Orocu              | [Kamila and Cooper 2013]()                                                                                    |
-|      |        |                                                        | Wang               |                                                                                                               |
+| 10   | Nov 03 | Phylogeny and ecology                                  | Orocu              | [Revell et al. 2008](https://uk.instructure.com/courses/2200247/modules/items/29651508){target="_blank"}      |
+|      |        |                                                        | Wang               | [Kamila and Cooper 2013](https://uk.instructure.com/courses/2200247/modules/items/29651507){target="_blank"}  |
 |      |        |                                                        |                    |                                                                                                               |
 | 11   | Nov 10 | Molecular evolution: the Neutral Theory                | Ewing              | [Kimura and Ohta 1971]()                                                                                      |
 |      |        |                                                        | Zakeri             | [Ohta 1974]()                                                                                                 |

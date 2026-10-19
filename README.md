@@ -107,8 +107,8 @@ Before each class meeting, each student should prepare **two questions** based o
 |  |  |  |  |  |
 |  | Oct 27 | **Fall break** |  |  |
 |  |  |  |  |  |
-| 10 | Nov 03 | Phylogeny and ecology | Orocu | [Kamila and Cooper 2013]() |
-|  |  |  | Wang |  |
+| 10 | Nov 03 | Phylogeny and ecology | Orocu | <a href="https://uk.instructure.com/courses/2200247/modules/items/29651508" target="_blank">Revell et al. 2008</a> |
+|  |  |  | Wang | <a href="https://uk.instructure.com/courses/2200247/modules/items/29651507" target="_blank">Kamila and Cooper 2013</a> |
 |  |  |  |  |  |
 | 11 | Nov 10 | Molecular evolution: the Neutral Theory | Ewing | [Kimura and Ohta 1971]() |
 |  |  |  | Zakeri | [Ohta 1974]() |
