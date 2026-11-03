@@ -118,8 +118,8 @@ Before each class meeting, each student should prepare **two questions** based o
 | 10   | Nov 03 | Phylogeny and ecology                                  | Orocu              | [Revell et al. 2008](https://uk.instructure.com/courses/2200247/modules/items/29651508){target="_blank"}      |
 |      |        |                                                        | Wang               | [Kamila and Cooper 2013](https://uk.instructure.com/courses/2200247/modules/items/29651507){target="_blank"}  |
 |      |        |                                                        |                    |                                                                                                               |
-| 11   | Nov 10 | Molecular evolution: the Neutral Theory                | Ewing              | [Kimura and Ohta 1971]()                                                                                      |
-|      |        |                                                        | Zakeri             | [Ohta 1974]()                                                                                                 |
+| 11   | Nov 10 | Molecular evolution: the Neutral Theory                | Ewing              | [Kimura and Ohta 1971](https://uk.instructure.com/courses/2200247/modules/items/29675302){target="_blank"}    |
+|      |        |                                                        | Zakeri             | [Ohta 1974](https://uk.instructure.com/courses/2200247/modules/items/29675303){target="_blank"}               |
 |      |        |                                                        |                    |                                                                                                               |
 | 12   | Nov 17 | Molecular evolution: Kimura vs Gillespie               | Pacheco Romero     | [Gillespie 1987]()                                                                                            |
 |      |        |                                                        | Zakeri             | [Kimura 1991]()                                                                                               |
