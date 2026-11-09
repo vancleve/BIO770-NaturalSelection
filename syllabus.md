@@ -121,18 +121,18 @@ Before each class meeting, each student should prepare **two questions** based o
 | 11   | Nov 10 | Molecular evolution: the Neutral Theory                | Ewing              | [Kimura and Ohta 1971](https://uk.instructure.com/courses/2200247/modules/items/29675302){target="_blank"}    |
 |      |        |                                                        | Zakeri             | [Ohta 1974](https://uk.instructure.com/courses/2200247/modules/items/29675303){target="_blank"}               |
 |      |        |                                                        |                    |                                                                                                               |
-| 12   | Nov 17 | Molecular evolution: Kimura vs Gillespie               | Pacheco Romero     | [Gillespie 1987]()                                                                                            |
-|      |        |                                                        | Zakeri             | [Kimura 1991]()                                                                                               |
+| 12   | Nov 17 | Molecular evolution: Kimura vs Gillespie               | Pacheco Romero     | [Gillespie 1987](https://uk.instructure.com/courses/2200247/modules/items/29687105){target="_blank"}          |
+|      |        |                                                        | Zakeri             | [Kimura 1991](https://uk.instructure.com/courses/2200247/modules/items/29687106){target="_blank"}             |
 |      |        |                                                        |                    |                                                                                                               |
-| 13   | Nov 24 | Molecular evolution: linkage and detecting selection   | Ewing              | [Begun & Aquadro 1992]()                                                                                      |
-|      |        |                                                        | Thackston          | [Hudson 1994]()                                                                                               |
-|      |        |                                                        |                    | [Smith & Eyre-Walker 2002]()                                                                                  |
+| 13   | Nov 24 | Molecular evolution: linkage and detecting selection   | Ewing              | [Begun & Aquadro 1992](){target="_blank"}                                                                     |
+|      |        |                                                        | Thackston          | [Hudson 1994](){target="_blank"}                                                                              |
+|      |        |                                                        |                    | [Smith & Eyre-Walker 2002](){target="_blank"}                                                                 |
 |      |        |                                                        |                    |                                                                                                               |
-| 14   | Dec 01 | Recent assessments of the neutral theory               | Thackston          | [Kern and Hahn 2018]()                                                                                        |
-|      |        |                                                        | Zakeri             | [Jensen et al 2019]()                                                                                         |
+| 14   | Dec 01 | Recent assessments of the neutral theory               | Thackston          | [Kern and Hahn 2018](){target="_blank"}                                                                       |
+|      |        |                                                        | Zakeri             | [Jensen et al 2019](){target="_blank"}                                                                        |
 |      |        |                                                        |                    |                                                                                                               |
-| 15   | Dec 08 | Natural selection and society                          | Fowler             | [Bird 2021]()                                                                                                 |
-|      |        |                                                        | Wang               | [Branch et al. 2022]()                                                                                        |
+| 15   | Dec 08 | Natural selection and society                          | Fowler             | [Bird 2021](){target="_blank"}                                                                                |
+|      |        |                                                        | Wang               | [Branch et al. 2022](){target="_blank"}                                                                       |
 
 # Course policies
 
