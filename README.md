@@ -117,7 +117,7 @@ Before each class meeting, each student should prepare **two questions** based o
 |  |  |  | Zakeri | <a href="https://uk.instructure.com/courses/2200247/modules/items/29687106" target="_blank">Kimura 1991</a> |
 |  |  |  |  |  |
 | 13 | Nov 24 | Molecular evolution: linkage and detecting selection | Ewing | <a href="https://uk.instructure.com/courses/2200247/modules/items/29706534" target="_blank">Begun &amp; Aquadro 1992</a> |
-|  |  |  | Thackston | <a href="https://uk.instructure.com/courses/2200247/modules/items/29706534" target="_blank">Hudson 1994</a> |
+|  |  |  | Thackston | <a href="https://uk.instructure.com/courses/2200247/modules/items/29706533" target="_blank">Hudson 1994</a> |
 |  |  |  |  | <a href="https://uk.instructure.com/courses/2200247/modules/items/29706532" target="_blank">Smith &amp; Eyre-Walker 2002</a> |
 |  |  |  |  |  |
 | 14 | Dec 01 | Recent assessments of the neutral theory | Thackston | <a href="" target="_blank">Kern and Hahn 2018</a> |
